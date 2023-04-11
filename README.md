@@ -12,7 +12,7 @@ In this Project We are using,
 
 5.A smartphone to support the app built using MIT app inventor to be used by caretaker to track the blind user in case of emergency.
 
-6.Firebase is a set of backend cloud computing services and application development platforms provided by Google which is used as cloud to store and retrive GPS data.
+6.Firebase is a set of backend cloud computing services and application development platforms provided by Google which is used as cloud to store and retrieve GPS data.
 
 So an object detection and location tracking-based system is developed for the visually impaired in a cost-effective manner.It is linked wirelessly via IoT with a mobile phone. In the implementation, an Android application is designed using MIT App Inventor to enable the location of the user to his or her caretaker. 
 
