@@ -17,4 +17,4 @@ In this Project We are using,
 So an object detection and location tracking-based system is developed for the visually impaired in a cost-effective manner.It is linked wirelessly via IoT with a mobile phone. In the implementation, an Android application is designed using MIT App Inventor to enable the location of the user to his or her caretaker. 
 
 
-<img width="313" alt="fbd" src="https://user-images.githubusercontent.com/41752521/231169423-701265bf-872a-4d61-8e14-6099544b51c2.png">
+
